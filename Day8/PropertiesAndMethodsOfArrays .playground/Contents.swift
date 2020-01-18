@@ -14,7 +14,6 @@ toys.append("Buzz")
 toys.firstIndex(of: "Buzz")
 
 // Just like with strings, you can have Swift sort the items of the array alphabetically:
-
 print(toys.sorted())
 
 // Finally, if you want to remove an item, use the remove() method like this:
